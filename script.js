@@ -55,8 +55,8 @@
 */
 const messages = [
     "¿Estás seguro?",
-    "¿De verdad?",
-    "ok",
+    "¿De verdad? :c",
+    "ok >:c",
     "Por favor, flaquita...",
     "¡Piénsalo... Amor :(!",
     "Si dices que no, me pondré muy triste...",
@@ -78,4 +78,5 @@ function handleNoClick() {
 }
     function handleYesClick() {
     window.location.href = "pagina-si.html";
+
 }
